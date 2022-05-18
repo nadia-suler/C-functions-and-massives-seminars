@@ -1,0 +1,15 @@
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\bin\Debug\net6.0\Seminar 2 functions.exe
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\bin\Debug\net6.0\Seminar 2 functions.deps.json
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\bin\Debug\net6.0\Seminar 2 functions.runtimeconfig.json
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\bin\Debug\net6.0\Seminar 2 functions.dll
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\bin\Debug\net6.0\Seminar 2 functions.pdb
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\obj\Debug\net6.0\Seminar 2 functions.csproj.AssemblyReference.cache
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\obj\Debug\net6.0\Seminar 2 functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\obj\Debug\net6.0\Seminar 2 functions.AssemblyInfoInputs.cache
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\obj\Debug\net6.0\Seminar 2 functions.AssemblyInfo.cs
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\obj\Debug\net6.0\Seminar 2 functions.csproj.CoreCompileInputs.cache
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\obj\Debug\net6.0\Seminar 2 functions.dll
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\obj\Debug\net6.0\refint\Seminar 2 functions.dll
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\obj\Debug\net6.0\Seminar 2 functions.pdb
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\obj\Debug\net6.0\Seminar 2 functions.genruntimeconfig.cache
+C:\Users\nsuler001\Desktop\Обучение\Geekbrains\4 Знакомство с языком C#\Семинары\Seminar 2 functions\obj\Debug\net6.0\ref\Seminar 2 functions.dll
